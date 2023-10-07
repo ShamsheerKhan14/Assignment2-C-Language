@@ -1,0 +1,52 @@
+Receipt
+------------------------
+Item ID: 1
+Item Name: Carrot
+Item Price: $1.50
+Quantity: 8
+------------------------
+Item ID: 2
+Item Name: Apple
+Item Price: $2.25
+Quantity: 8
+------------------------
+Item ID: 3
+Item Name: Orange
+Item Price: $2.75
+Quantity: 6
+------------------------
+Item ID: 4
+Item Name: Parsnip
+Item Price: $1.25
+Quantity: 1
+------------------------
+Item ID: 6
+Item Name: Blueberry
+Item Price: $1.25
+Quantity: 8
+------------------------
+Item ID: 7
+Item Name: Cherry
+Item Price: $2.25
+Quantity: 7
+------------------------
+Item ID: 8
+Item Name: Asparagus
+Item Price: $2.00
+Quantity: 1
+------------------------
+Item ID: 9
+Item Name: Cabbage
+Item Price: $3.50
+Quantity: 4
+------------------------
+Item ID: 10
+Item Name: Celery
+Item Price: $1.25
+Quantity: 9
+------------------------
+Item ID: 3
+Item Name: Orange
+Item Price: $2.75
+Quantity: 5
+------------------------
